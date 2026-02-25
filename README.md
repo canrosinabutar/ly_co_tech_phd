@@ -1,12 +1,34 @@
-# Project Overview
+# ly_co_tech_phd - Zero-Latency Mobile Automation
 
-This project, LY Co, Tech PHD, focuses on developing innovative solutions to enhance the user experience in various tech domains. It provides a comprehensive set of tools and functionalities aimed at improving efficiency and satisfaction.
+> Achieving ~zero latency mobile automation, outperforming existing mobile automation tools
 
-# Features
-- **User-Friendly Interface**: Easy navigation and access to various tools.
-- **Customizable Settings**: Tailor the application to meet specific user needs.
-- **Integration with Popular Tools**: Seamless connection with other applications to enhance functionality.
+## 🎯 Overview
+- Clear problem statement: Why does latency matter in mobile automation?
+- Your solution approach
+- Key differentiators
 
+## 🚀 Features
+- Zero-latency architecture
+- Performance metrics/benchmarks
+- Supported platforms/devices
+- Unique capabilities
+
+## 📊 Performance Comparison
+- Comparison table with other tools (Appium, Detox, etc.)
+- Latency benchmarks
+- Resource usage metrics
+
+## ⚙️ Tech Stack
+- **Shell**: 61.5% - (Explain its role: CI/CD, scripting, etc.)
+- **TypeScript**: 36.6% - (Core automation logic, APIs, etc.)
+- **Docker**: 1.9% - (Containerization, deployment)
+
+## 🏗️ Architecture
+- System design diagram
+- How zero-latency is achieved
+- Component interactions
+
+  
 # Setup Instructions
 1. **Clone the repository**:
    ```bash
